@@ -2,7 +2,6 @@
 
 This is a simple web application built with **Python** and **Flask** that allows users to validate a Nigerian National Identification Number (NIN). It checks if the input is exactly 11 numeric digits — the correct format for a NIN.
 
-![NIN Validator Screenshot](https://via.placeholder.com/600x350?text=NIN+Validator+Preview)
 
 ---
 
