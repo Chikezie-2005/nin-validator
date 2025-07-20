@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: nin-validator
-    env: python
-    buildCommand: ""
-    startCommand: "python app.py"
